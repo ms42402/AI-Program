@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.visualizer.visualizationapp.VisualizerApplication
+Class-Path: javafx-base-11.0.2-mac.jar javafx-controls-11.0.2-mac.jar ja
+ vafx-graphics-11.0.2-mac.jar javafx-controls-11.0.2.jar javafx-fxml-11.
+ 0.2-mac.jar javafx-base-11.0.2.jar javafx-fxml-11.0.2.jar bootstrapfx-c
+ ore-0.4.0.jar javafx-graphics-11.0.2.jar controlsfx-11.1.0.jar
+
